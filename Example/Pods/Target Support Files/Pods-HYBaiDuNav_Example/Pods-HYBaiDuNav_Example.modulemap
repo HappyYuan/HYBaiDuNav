@@ -1,0 +1,6 @@
+framework module Pods_HYBaiDuNav_Example {
+  umbrella header "Pods-HYBaiDuNav_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

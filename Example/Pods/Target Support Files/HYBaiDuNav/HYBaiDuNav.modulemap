@@ -1,0 +1,6 @@
+framework module HYBaiDuNav {
+  umbrella header "HYBaiDuNav-umbrella.h"
+
+  export *
+  module * { export * }
+}
